@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # Core gems
 gem 'rails', '3.2.17'
+gem 'therubyracer'
 
 # Database adapters
 gem 'pg'
