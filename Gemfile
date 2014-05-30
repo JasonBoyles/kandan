@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 # Core gems
 gem 'rails', '3.2.17'
 gem 'therubyracer'
+gem 'unicorn'
 
 # Database adapters
 gem 'pg'
