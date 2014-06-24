@@ -9,7 +9,7 @@ gem 'unicorn'
 gem 'pg'
 
 # Uncomment next line when using MySQL database
-#gem 'mysql2'
+gem 'mysql2'
 
 # Auth gems
 gem 'devise'
